@@ -1,5 +1,5 @@
 # :shopping_cart: Varda
-스킨케어 화장품 구매 사이트
+### 스킨케어 화장품 구매 사이트
 ![varda_logo](https://github.com/oblsoun/varda/assets/132249005/417d6d14-3bde-4cde-a872-0f4ae0e75cce)
 
 ---

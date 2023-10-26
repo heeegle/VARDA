@@ -1,7 +1,9 @@
 # :shopping_cart: Varda
 스킨케어 화장품 구매 사이트
-![varda_logo](https://github.com/oblsoun/nomercy/assets/132249005/79129e43-3e97-4b80-b356-7287a54ca9fd)
+<img src="https://github.com/oblsoun/nomercy/assets/132249005/79129e43-3e97-4b80-b356-7287a54ca9fd width="300" height="300"/>
+
 ---
+
 ### 프로젝트 배경
 - 기초케어 화장품만 판매하는 사이트는 존재하지 않음
 - 타사 홈페이지에서는 기초케어 화장품에 관한 카테고리가 단순
